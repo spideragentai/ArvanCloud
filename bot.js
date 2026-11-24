@@ -18,7 +18,7 @@ if (typeof Bot !== 'function') {
 // =============================================================
 const CONFIG = {
     OWNER_ID:   8872751291,
-    BOT_TOKEN:  '9080161286:AAEnKnlaGjlcnFF69iQ8BfR5ZIkY6SDOZkc',
+    BOT_TOKEN:  '9111232524:AAF4tcQuVdWWmU9z-pB8OUqhXUkpNQIoscI',
 
     SCRIPT_PATH: 'ArvanCloud.js',
     BANNER_FILE: 'banner.txt',
